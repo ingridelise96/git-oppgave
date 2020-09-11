@@ -13,3 +13,10 @@ git fetch
 git pull
 git merge dev
 git push
+git add .
+git commit -m "merge conflict test"
+git push
+git pull
+git add .
+git commit -m "resolved merge conflict"
+git push
